@@ -1,13 +1,10 @@
-# DevOps Stage 0 - HNG13
+# HNG13 Stage 0 - DevOps Task
 
-## Author
 **Name:** Omobolanle Frank-Odiase  
-**Slack Username:** @Mobola_Odiase  
+**Slack Username:** mobola_odiase  
 
-## Description
-This is my Stage 0 DevOps task submission for HNG13 internship.  
-The project demonstrates how to deploy and configure an NGINX web server hosting a custom HTML page.
+**Project Description:**  
+This project demonstrates my ability to deploy and configure an NGINX web server on AWS EC2 and serve a custom webpage publicly as part of the HNG Stage 0 DevOps task.
 
-## Server Info
-**Server IP/Domain:** http://YOUR_SERVER_IP/  
-(Will be updated after deployment)
+**Server IP/Domain:**  
+http://56.228.36.110/
